@@ -1,1 +1,2 @@
-shell input, output redirection
+#!/bin/bash
+echo "shell input, output redirect"
